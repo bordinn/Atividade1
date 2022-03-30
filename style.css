@@ -1,0 +1,30 @@
+
+.A {
+    background-color: #666666;
+    width: 250px;
+    height: 525px;
+}
+
+.B {
+    background-color: #612c0d;
+    width: 49%;
+    height: 25%;
+}
+
+.C {
+    background-color: rgb(164, 190, 178);
+    color: rgb(77, 201, 164);
+    font-size: 22px;
+    font-weight: arial;
+}
+
+.D{
+    width: 23%;
+    height: 23vh;
+    background-color: rgb(227, 252, 0);
+}
+.E{
+    width: 80vw;
+    height: 70%;
+    background-color: rgb(202, 165, 86);
+}
